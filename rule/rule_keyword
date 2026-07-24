@@ -13,6 +13,7 @@ aff 1
 点击了解 1
 福利 1
 链接 1
+在花
 
 
 免费高速订阅节点|https://t.me/freeVPNjd - 先白再黑
@@ -26,3 +27,7 @@ aff 1
 /add_regex (?=[\s\S]*订阅链接)(?=[\s\S]*流量详情)(?=[\s\S]*剩余可用) 0
 黑：
 /add_regex .*dyzk\.020318\.xyz.* 0
+
+公益机场 TG代理 免费订阅 资源分享|https://t.me/proxyshareCN
+黑：
+/add_regex .*lansecs\.top.*
